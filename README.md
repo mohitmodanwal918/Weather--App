@@ -1,2 +1,16 @@
-# Weather--App
-This repository houses the source code for a responsive weather application developed using React.js. The app fetches real-time weather data through a weather API, displaying current weather conditions, forecasts, and other pertinent details for specified locations. Users can easily search for cities, view temperature.
+<p align="center">
+<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+</p>
+
+<p align="center">
+  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
+ </p>
+ <p align="center">
+  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+ </p>
+
+## Setup
+
+```
+npm i && npm start
+```
